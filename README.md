@@ -3,7 +3,7 @@ Um apk que para criar seus jogos no Construct 3
 
 ### Como Usar:
 1. Baixe o aplicação modificada que fiz (removi alguns arquivos e permissões que não iriam ser utilizados)
-[Contrunc3toAPK]() ou o [app original](https://play.google.com/store/apps/details?id=czkiam.myapp)
+[Contrunc3toAPK](https://github.com/GlitchYou/Construct3-to-apk/blob/main/Construc3toAPK.apk?raw=true) ou o [app original](https://play.google.com/store/apps/details?id=czkiam.myapp)
 
 2. Abra o apk decompilando por alguma das aplicações abaixo
 
@@ -15,4 +15,4 @@ Um apk que para criar seus jogos no Construct 3
 [Apk Editor Studio](https://qwertycube.com/apk-editor-studio/download/)
 
 ### Aplicação para Android
-[ApkEditorPro_NoOfficial]()
+[ApkEditorPro_NoOfficial](https://github.com/GlitchYou/Construct3-to-apk/blob/main/ApkEditorPro_NoOfficial.apk?raw=true)
