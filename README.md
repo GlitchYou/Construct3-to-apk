@@ -1,2 +1,18 @@
 # Construct3-to-apk
 Um apk que para criar seus jogos no Construct 3
+
+### Como Usar:
+1. Baixe o aplicação modificada que fiz (removi alguns arquivos e permissões que não iriam ser utilizados)
+[Contrunc3toAPK]() ou o [app original](https://play.google.com/store/apps/details?id=czkiam.myapp)
+
+2. Abra o apk decompilando por alguma das aplicações abaixo
+
+3. Extraia todo o jogo_exportado_em_html5.zip em assets/www/
+
+4. Compile o apk
+
+### Aplicação para Windows, MacOS e Linux
+[Apk Editor Studio](https://qwertycube.com/apk-editor-studio/download/)
+
+### Aplicação para Android
+[ApkEditorPro_NoOfficial]()
