@@ -15,4 +15,4 @@ Um apk que para criar seus jogos no Construct 3
 [Apk Editor Studio](https://qwertycube.com/apk-editor-studio/download/)
 
 ### Aplicação para Android
-[ApkEditorPro_NoOfficial](https://github.com/GlitchYou/Construct3-to-apk/blob/main/ApkEditorPro_NoOfficial.apk?raw=true)
+[ApkEditorPro_NoOfficial](https://github.com/GlitchYou/Construct3-to-apk/blob/main/APKEditorPro_NoOfficial.apk?raw=true)
