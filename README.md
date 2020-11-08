@@ -16,3 +16,9 @@ Um apk que para criar seus jogos no Construct 3
 
 ### Aplicação para Android
 [ApkEditorPro_NoOfficial](https://github.com/GlitchYou/Construct3-to-apk/blob/main/APKEditorPro_NoOfficial.apk?raw=true)
+
+Se quiser me apoiar
+
+(Bitcoin Compatibility) 3QuZEz3msrXx1uu4DvpBu8jozzNUeKNwb6
+(Ether) 0xa11057B0328bF5eD5a1662e9fd0d5a8a8F17cC71
+(Dash) XktoTtjKbAb4YJkD5PFoPCXfnJT8rXDGZM
